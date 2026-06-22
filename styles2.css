@@ -1,0 +1,20 @@
+h1, h2 {
+    color: #059669;
+}
+
+.grade {
+   color: #047857;
+}
+
+body {
+    background-color: #f0fdf4;
+    color: #14532d;
+}
+
+
+
+table,td, tr {
+    background-color: #ffffff;
+    border: 1px solid #bbf7d0;
+    
+}

@@ -1,0 +1,17 @@
+caption {
+    color: #059669;
+}
+
+body {
+    background-color: #f0fdf4;
+    color: #14532d;
+}
+
+table, td, tr {
+    background-color: #ffffff;
+    border: 1px solid #bbf7d0;
+}
+
+th {
+    background-color: #f59e0b;
+}
